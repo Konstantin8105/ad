@@ -113,3 +113,5 @@ r = 52
 Function rep: stop
 res = 96
 ```
+
+> Now is not clear - how to implement code from external packages.
